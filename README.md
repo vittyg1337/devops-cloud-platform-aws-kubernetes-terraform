@@ -1,3 +1,4 @@
+
 # DevOps End-to-End Platform
 
 ## Overview
@@ -8,23 +9,7 @@ The platform integrates cloud infrastructure, containerization, CI/CD pipelines,
 
 ## Architecture
 
-Developer
-↓
-GitHub
-↓
-GitHub Actions
-↓
-Docker Build
-↓
-AWS EC2 Infrastructure
-↓
-Kubernetes Cluster
-↓
-Prometheus Monitoring
-↓
-Grafana Dashboards
-↓
-Ansible Automation
+<img width="166" height="1811" alt="Architecture-Diagram drawio" src="https://github.com/user-attachments/assets/a6aa3386-7570-4002-a06a-4dbc5d260275" />
 
 ## Technology Stack
 
