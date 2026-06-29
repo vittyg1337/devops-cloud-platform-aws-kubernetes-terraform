@@ -88,6 +88,26 @@ using modern cloud-native technologies.
 
 ## Project Components
 
+### Application And CI Source
+
+Merged implementation files are included in this repository so the screenshots are backed by source-controlled project work.
+
+**Key files:**
+
+* `app/docker-webapp/Dockerfile`
+* `app/docker-webapp/index.html`
+* `.github/workflows/docker-webapp.yml`
+* `docs/docker-webapp-project-summary.md`
+
+**Skills:**
+
+* Dockerfile authoring
+* Static web app containerization
+* GitHub Actions workflow configuration
+* Docker image build validation
+
+---
+
 ### Linux Administration Lab
 
 Built and managed Linux servers using SSH, package management, permissions, processes, and services.
@@ -262,6 +282,12 @@ This repository contains over 70 implementation screenshots demonstrating:
 | Kubernetes | [Screenshots/Kubernetes](Screenshots/Kubernetes) |
 | Monitoring | [Screenshots/Monitoring](Screenshots/Monitoring) |
 | Ansible | [Screenshots/Ansible](Screenshots/Ansible) |
+
+---
+
+## Supporting Labs
+
+Additional learning artifacts from earlier DevOps practice repositories were merged into [labs/](labs/). These files show the foundation behind the flagship project, including Linux notes, Git notes, SSH setup, and early lab documentation.
 
 ---
 

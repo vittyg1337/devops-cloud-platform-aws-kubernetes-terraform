@@ -1,0 +1,10 @@
+pwd
+ls
+cd
+mkdir
+touch
+chmod
+ps
+kill
+apt
+systemctl
