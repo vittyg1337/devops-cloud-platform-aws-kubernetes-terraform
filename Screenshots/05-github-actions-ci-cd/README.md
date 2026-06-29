@@ -1,4 +1,4 @@
-# GitHub Actions CI/CD
+# Lab 05 - GitHub Actions CI/CD
 
 ## Overview
 

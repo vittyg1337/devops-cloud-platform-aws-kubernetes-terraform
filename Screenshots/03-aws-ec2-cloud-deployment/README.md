@@ -1,4 +1,4 @@
-# AWS Deployment Screenshots
+# Lab 03 - AWS EC2 Cloud Deployment
 
 ## Overview
 

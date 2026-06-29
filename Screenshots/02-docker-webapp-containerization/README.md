@@ -1,4 +1,4 @@
-# Docker Web Application
+# Lab 02 - Docker Web App Containerization
 
 ## Overview
 

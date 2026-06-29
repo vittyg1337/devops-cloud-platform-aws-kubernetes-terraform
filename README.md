@@ -233,25 +233,21 @@ Automated Linux server configuration using Ansible inventories and playbooks.
 
 ## Project Gallery
 
-### GitHub Actions CI/CD
+The screenshot evidence is organized as an ordered lab sequence. The folder names follow the same progression as the implementation screenshots, so reviewers can scan the project from fundamentals through the final end-to-end result.
 
-Automated build and validation pipeline.
-
-### Terraform AWS Infrastructure
-
-Provisioned cloud infrastructure using Infrastructure as Code.
-
-### Kubernetes Deployment
-
-Successfully deployed and managed workloads using Kubernetes.
-
-### Monitoring Stack
-
-Implemented Prometheus and Grafana monitoring.
-
-### Ansible Automation
-
-Automated Linux server configuration using Ansible playbooks.
+| Lab | Screenshot range | Evidence |
+| --- | --- | --- |
+| 01 - Linux and Git Foundations | 01-06 | [Screenshots/01-linux-git-foundations](Screenshots/01-linux-git-foundations) |
+| 02 - Docker Web App Containerization | 07-17 | [Screenshots/02-docker-webapp-containerization](Screenshots/02-docker-webapp-containerization) |
+| 03 - AWS EC2 Cloud Deployment | 19-26 | [Screenshots/03-aws-ec2-cloud-deployment](Screenshots/03-aws-ec2-cloud-deployment) |
+| 04 - Terraform Infrastructure as Code | 27-49 | [Screenshots/04-terraform-infrastructure-as-code](Screenshots/04-terraform-infrastructure-as-code) |
+| 05 - GitHub Actions CI/CD | 36-39 | [Screenshots/05-github-actions-ci-cd](Screenshots/05-github-actions-ci-cd) |
+| 06 - Project Evidence Library | 50 | [Screenshots/06-project-evidence-library](Screenshots/06-project-evidence-library) |
+| 07 - AWS Terraform EC2 Verification | 51 | [Screenshots/07-aws-terraform-ec2-verification](Screenshots/07-aws-terraform-ec2-verification) |
+| 08 - Kubernetes Minikube Orchestration | 52-64 | [Screenshots/08-kubernetes-minikube-orchestration](Screenshots/08-kubernetes-minikube-orchestration) |
+| 09 - Prometheus and Grafana Monitoring | 65-71 | [Screenshots/09-prometheus-grafana-monitoring](Screenshots/09-prometheus-grafana-monitoring) |
+| 10 - Ansible Configuration Management | 72-74 | [Screenshots/10-ansible-configuration-management](Screenshots/10-ansible-configuration-management) |
+| 11 - End-to-End Project Overview | 75 | [Screenshots/11-end-to-end-project-overview](Screenshots/11-end-to-end-project-overview) |
 
 ---
 
@@ -271,17 +267,19 @@ This repository contains over 70 implementation screenshots demonstrating:
 
 ### Screenshot Evidence Index
 
-| Area | Evidence |
+| Ordered lab | Evidence |
 | --- | --- |
-| Project Overview | [Screenshots/Project-Overview](Screenshots/Project-Overview) |
-| Linux | [Screenshots/Linux](Screenshots/Linux) |
-| Docker | [Screenshots/Docker](Screenshots/Docker) |
-| AWS | [Screenshots/AWS](Screenshots/AWS) |
-| Terraform | [Screenshots/Terraform](Screenshots/Terraform) |
-| GitHub Actions | [Screenshots/GitHub-Actions](Screenshots/GitHub-Actions) |
-| Kubernetes | [Screenshots/Kubernetes](Screenshots/Kubernetes) |
-| Monitoring | [Screenshots/Monitoring](Screenshots/Monitoring) |
-| Ansible | [Screenshots/Ansible](Screenshots/Ansible) |
+| 01 - Linux and Git Foundations | [Screenshots/01-linux-git-foundations](Screenshots/01-linux-git-foundations) |
+| 02 - Docker Web App Containerization | [Screenshots/02-docker-webapp-containerization](Screenshots/02-docker-webapp-containerization) |
+| 03 - AWS EC2 Cloud Deployment | [Screenshots/03-aws-ec2-cloud-deployment](Screenshots/03-aws-ec2-cloud-deployment) |
+| 04 - Terraform Infrastructure as Code | [Screenshots/04-terraform-infrastructure-as-code](Screenshots/04-terraform-infrastructure-as-code) |
+| 05 - GitHub Actions CI/CD | [Screenshots/05-github-actions-ci-cd](Screenshots/05-github-actions-ci-cd) |
+| 06 - Project Evidence Library | [Screenshots/06-project-evidence-library](Screenshots/06-project-evidence-library) |
+| 07 - AWS Terraform EC2 Verification | [Screenshots/07-aws-terraform-ec2-verification](Screenshots/07-aws-terraform-ec2-verification) |
+| 08 - Kubernetes Minikube Orchestration | [Screenshots/08-kubernetes-minikube-orchestration](Screenshots/08-kubernetes-minikube-orchestration) |
+| 09 - Prometheus and Grafana Monitoring | [Screenshots/09-prometheus-grafana-monitoring](Screenshots/09-prometheus-grafana-monitoring) |
+| 10 - Ansible Configuration Management | [Screenshots/10-ansible-configuration-management](Screenshots/10-ansible-configuration-management) |
+| 11 - End-to-End Project Overview | [Screenshots/11-end-to-end-project-overview](Screenshots/11-end-to-end-project-overview) |
 
 ---
 

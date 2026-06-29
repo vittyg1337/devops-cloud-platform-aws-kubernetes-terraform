@@ -1,4 +1,4 @@
-# Linux And Git Screenshots
+# Lab 01 - Linux and Git Foundations
 
 ## Overview
 

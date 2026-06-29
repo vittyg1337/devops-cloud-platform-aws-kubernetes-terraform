@@ -1,4 +1,4 @@
-# Ansible Screenshots
+# Lab 10 - Ansible Configuration Management
 
 ## Overview
 

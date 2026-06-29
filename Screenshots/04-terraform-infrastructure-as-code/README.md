@@ -1,4 +1,4 @@
-# Terraform AWS Infrastructure
+# Lab 04 - Terraform Infrastructure as Code
 
 ## Overview
 

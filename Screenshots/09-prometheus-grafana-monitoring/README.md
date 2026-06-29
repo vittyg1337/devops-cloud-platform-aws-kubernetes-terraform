@@ -1,4 +1,4 @@
-# Monitoring Screenshots
+# Lab 09 - Prometheus and Grafana Monitoring
 
 ## Overview
 

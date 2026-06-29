@@ -1,4 +1,4 @@
-# Kubernetes Screenshots
+# Lab 08 - Kubernetes Minikube Orchestration
 
 ## Overview
 

@@ -1,12 +1,11 @@
-# Project Overview Screenshots
+# Lab 11 - End-to-End Project Overview
 
 ## Overview
 
-These screenshots document the overall portfolio repository and final end-to-end project structure.
+This screenshot documents the final end-to-end project structure.
 
 ## Screenshots
 
-- 50 - DevOps Portfolio Screenshot Library
 - 75 - End-to-End Project Created
 
 ## Skills Demonstrated
