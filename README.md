@@ -237,7 +237,7 @@ Automated Linux server configuration using Ansible playbooks.
 
 ## Documentation
 
-This repository contains over 70 documented screenshots demonstrating:
+This repository contains over 70 implementation screenshots demonstrating:
 
 * Infrastructure provisioning
 * Docker deployments
@@ -248,6 +248,20 @@ This repository contains over 70 documented screenshots demonstrating:
 * Monitoring implementation
 * Ansible automation
 * Troubleshooting and issue resolution
+
+### Screenshot Evidence Index
+
+| Area | Evidence |
+| --- | --- |
+| Project Overview | [Screenshots/Project-Overview](Screenshots/Project-Overview) |
+| Linux | [Screenshots/Linux](Screenshots/Linux) |
+| Docker | [Screenshots/Docker](Screenshots/Docker) |
+| AWS | [Screenshots/AWS](Screenshots/AWS) |
+| Terraform | [Screenshots/Terraform](Screenshots/Terraform) |
+| GitHub Actions | [Screenshots/GitHub-Actions](Screenshots/GitHub-Actions) |
+| Kubernetes | [Screenshots/Kubernetes](Screenshots/Kubernetes) |
+| Monitoring | [Screenshots/Monitoring](Screenshots/Monitoring) |
+| Ansible | [Screenshots/Ansible](Screenshots/Ansible) |
 
 ---
 
